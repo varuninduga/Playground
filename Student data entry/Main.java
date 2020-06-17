@@ -1,0 +1,7 @@
+a=input()
+b=input()
+c=input()
+print("\nStudent Details")
+print("Name:",a)
+print("Roll:",b)
+print("Marks:",c)
